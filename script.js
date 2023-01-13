@@ -12,7 +12,7 @@ qrImg.src =`https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=${qrVa
 
 qrImg.addEventListener('load', ()=>{
   container.classList.add("active")
-  generateBtn.innerText = "Generat QR-code";
+  generateBtn.innerText = "Generate QR-code";
 })
  })
 
