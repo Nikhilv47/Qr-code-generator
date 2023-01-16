@@ -29,6 +29,7 @@ transition: height 0.2s ease;
 .container p{
     font-size: 16px;
     margin-top: 5px;
+        color: red;
 }
 .form{
     margin: 25px 0;
